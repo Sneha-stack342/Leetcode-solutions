@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [3174-clear-digits](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/3174-clear-digits) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [3174-clear-digits](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/3174-clear-digits) |
 ## Design
