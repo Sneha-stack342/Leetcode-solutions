@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 ## Bit Manipulation
@@ -138,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
