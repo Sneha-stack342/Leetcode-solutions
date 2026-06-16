@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0682-baseball-game) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Matrix
@@ -130,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
