@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0844-backspace-string-compare](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1773-count-items-matching-a-rule](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3174-clear-digits](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/3174-clear-digits) |
 ## Sliding Window
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1773-count-items-matching-a-rule](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Binary Search
 |  |
