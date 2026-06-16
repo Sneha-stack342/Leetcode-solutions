@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
