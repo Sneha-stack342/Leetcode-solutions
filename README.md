@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1313-decompress-run-length-encoded-list](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
