@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
