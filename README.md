@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0561-array-partition](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0704-binary-search) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0561-array-partition) |
 ## Recursion
 |  |
 | ------- |
@@ -264,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
