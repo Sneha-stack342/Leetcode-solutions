@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
