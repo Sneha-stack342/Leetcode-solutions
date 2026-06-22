@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3842-toggle-light-bulbs](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 ## String
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3842-toggle-light-bulbs](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3174-clear-digits](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/3174-clear-digits) |
+| [3842-toggle-light-bulbs](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 ## Design
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [3842-toggle-light-bulbs](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/3842-toggle-light-bulbs) |
 ## Bit Manipulation
 |  |
 | ------- |
