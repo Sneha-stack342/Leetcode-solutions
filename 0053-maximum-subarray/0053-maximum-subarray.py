@@ -6,5 +6,4 @@ class Solution:
             current=max(nums[i],current+nums[i])
             maxsum=max(maxsum,current)
         return maxsum
-
         
