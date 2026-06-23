@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0567-permutation-in-string](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0268-missing-number) |
