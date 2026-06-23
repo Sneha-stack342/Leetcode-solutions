@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -282,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0561-array-partition) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
