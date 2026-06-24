@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Tree
 |  |
 | ------- |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0078-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sneha-stack342/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
